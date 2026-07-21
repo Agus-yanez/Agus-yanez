@@ -150,20 +150,9 @@ Proyecto en SQL Server para gestionar clientes, prospectos, servicios y tickets 
 
 ---
 
-## 🔍 Enfoque profesional
-
-| Desarrollo de Software | Integración de Sistemas | IoT y Automatización |
-|---|---|---|
-| Aplicaciones web | APIs REST | ESP32 |
-| Programación orientada a objetos | Moodle y servicios externos | Sensores y relés |
-| Sistemas basados en bases de datos | Entornos productivos | Horarios y reglas |
-| Arquitecturas mantenibles | Resolución de incidentes | Monitoreo remoto |
-
----
-
 ## 📫 Contacto
 
-Me interesan las oportunidades y proyectos relacionados con desarrollo de software, integración, automatización y tecnología en los que pueda seguir aprendiendo y aportar soluciones prácticas.
+Estoy abierto a oportunidades relacionadas con desarrollo de software, integración de sistemas, IoT y automatización.
 
 - GitHub: [Agus-yanez](https://github.com/Agus-yanez)
 - LinkedIn: [Agustín Yañez](https://www.linkedin.com/in/agustin-yañez-4a9392112/)
