@@ -21,14 +21,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a software developer based in Buenos Aires, Argentina, with experience in **systems integration, critical production environments, incident resolution, and continuous improvement**.
+I'm a software developer and systems integration professional based in Buenos Aires, Argentina. I build practical solutions that connect **web applications, APIs, databases, and embedded systems**, with experience supporting critical production environments.
 
-I enjoy building practical solutions that connect **software, databases, APIs, and hardware**. My work and personal projects include web applications, Moodle integrations, REST APIs, SQL databases, ESP32 automation, and IoT systems.
-
-* 🔭 Currently building a scalable **ESP32 automation system for indoor hydroponics**
-* 🧩 Working on integrations between **Moodle and Zoom Meeting SDK**
-* 💡 Interested in **software development, full-stack applications, integrations, IoT, and automation**
-* 🎯 Focused on creating solutions that are **clean, maintainable, scalable, and reliable**
+- 🔭 Building a modular **ESP32 automation platform for indoor hydroponics**
+- 🧩 Developing integrations between **Moodle and Zoom Meeting SDK**
+- 🎯 Focused on **maintainable architecture, reliability, and continuous improvement**
 
 ---
 
@@ -71,6 +68,8 @@ I enjoy building practical solutions that connect **software, databases, APIs, a
 
 ### 🎓 Moodle + Zoom Education Integration
 
+**Status:** Team project · Portfolio repository in preparation
+
 Plugin-based integration between **Moodle and Zoom Meeting SDK** designed for virtual classes and online assessments.
 
 **Main features:**
@@ -88,6 +87,8 @@ Plugin-based integration between **Moodle and Zoom Meeting SDK** designed for vi
 
 ### 🎬 Cinema Management System
 
+**Status:** Academic project · Public repository
+
 ASP.NET Core MVC application for managing movies, rooms, screenings, users, and reservations.
 
 **Main features:**
@@ -103,6 +104,8 @@ ASP.NET Core MVC application for managing movies, rooms, screenings, users, and 
 ---
 
 ### 🌱 ESP32 Hydroponics Automation
+
+**Status:** Public · Active development
 
 Modular relay automation subsystem for an indoor hydroponics environment, developed with **ESP32, PlatformIO, Arduino Framework, and object-oriented C++**.
 
@@ -132,6 +135,8 @@ Modular relay automation subsystem for an indoor hydroponics environment, develo
 ---
 
 ### 🗄️ Telecom Call Center Database
+
+**Status:** Academic project · Repository in preparation
 
 SQL Server database project for managing customers, prospects, services, and support tickets.
 
