@@ -97,7 +97,7 @@ Aplicación ASP.NET Core MVC para administrar películas, salas, funciones, usua
 - Integración con Entity Framework y SQL Server
 
 [Ver repositorio](https://github.com/Agus-yanez/ProyectoCineORT)
->**Estado:** Proyecto académico · Repositorio público
+> **Estado:** Proyecto académico · Repositorio público
 ---
 
 ### 🌱 Automatización hidropónica con ESP32
