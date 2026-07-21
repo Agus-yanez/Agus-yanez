@@ -151,7 +151,6 @@ Proyecto en SQL Server para gestionar clientes, prospectos, servicios y tickets 
 
 Estoy abierto a oportunidades relacionadas con desarrollo de software, integración de sistemas, IoT y automatización.
 
-- GitHub: [Agus-yanez](https://github.com/Agus-yanez)
 - LinkedIn: [Agustín Yañez](https://www.linkedin.com/in/agustin-yañez-4a9392112/)
 
 ---
