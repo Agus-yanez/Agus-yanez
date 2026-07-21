@@ -68,8 +68,6 @@ I'm a software developer and systems integration professional based in Buenos Ai
 
 ### 🎓 Moodle + Zoom Education Integration
 
-**Status:** Team project · Portfolio repository in preparation
-
 Plugin-based integration between **Moodle and Zoom Meeting SDK** designed for virtual classes and online assessments.
 
 **Main features:**
@@ -81,13 +79,11 @@ Plugin-based integration between **Moodle and Zoom Meeting SDK** designed for vi
 * Compatibility work across Moodle versions
 * Secure communication between PHP and JavaScript components
 
-> A sanitized public version and complete technical documentation are being prepared.
+> **Status:** Team project · Portfolio repository in preparation
 
 ---
 
 ### 🎬 Cinema Management System
-
-**Status:** Academic project · Public repository
 
 ASP.NET Core MVC application for managing movies, rooms, screenings, users, and reservations.
 
@@ -100,12 +96,11 @@ ASP.NET Core MVC application for managing movies, rooms, screenings, users, and 
 * Entity Framework and SQL Server integration
 
 [View repository](https://github.com/Agus-yanez/ProyectoCineORT)
+> **Status:** Academic project · Public repository
 
 ---
 
 ### 🌱 ESP32 Hydroponics Automation
-
-**Status:** Public · Active development
 
 Modular relay automation subsystem for an indoor hydroponics environment, developed with **ESP32, PlatformIO, Arduino Framework, and object-oriented C++**.
 
@@ -131,12 +126,11 @@ Modular relay automation subsystem for an indoor hydroponics environment, develo
 
 [View repository](https://github.com/Agus-yanez/RelaysControl)
 
-> Currently in active development.
+> **Status:** Public · Active development
+
 ---
 
 ### 🗄️ Telecom Call Center Database
-
-**Status:** Academic project · Repository in preparation
 
 SQL Server database project for managing customers, prospects, services, and support tickets.
 
@@ -149,7 +143,7 @@ SQL Server database project for managing customers, prospects, services, and sup
 * SLA-related logic
 * Structured error codes and messages
 
-> Repository and documentation are being prepared.
+> **Status:** Academic project · Repository in preparation
 
 ---
 
