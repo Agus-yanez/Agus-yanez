@@ -151,7 +151,6 @@ SQL Server database project for managing customers, prospects, services, and sup
 
 I'm open to software development, systems integration, IoT, and automation opportunities.
 
-* GitHub: [Agus-yanez](https://github.com/Agus-yanez)
 * LinkedIn: [Agustín Yañez](https://www.linkedin.com/in/agustin-yañez-4a9392112)
 
 ---
