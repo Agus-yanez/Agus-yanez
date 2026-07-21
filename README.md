@@ -103,19 +103,31 @@ ASP.NET Core MVC application for managing movies, rooms, screenings, users, and 
 
 ### 🌱 ESP32 Hydroponics Automation
 
-Modular automation and monitoring system for an indoor hydroponics environment, developed with **ESP32, PlatformIO, Arduino Framework, and object-oriented C++**.
+Modular relay automation subsystem for an indoor hydroponics environment, developed with **ESP32, PlatformIO, Arduino Framework, and object-oriented C++**.
 
-**Current scope:**
+**Currently implemented:**
 
-* Sensor and relay management
-* Scheduling and timers
-* Safe startup states
-* Persistent configuration
-* Wi-Fi and API integration
-* Scalable automation rules
+- Object-oriented relay architecture
+- Centralized relay management
+- Manual and timed activations
+- Safe startup states
+- Relay locking
+- Minimum OFF-time and maximum ON-time protections
+- Serial command interface
+- Actuator-specific safety configurations
+
+**Planned integrations:**
+
+- Multiple schedules per relay
+- Sensor-based automation rules
+- Persistent configuration
+- RTC and network time
+- Wi-Fi and REST API
+- Logging and alerts
+
+[View repository](https://github.com/Agus-yanez/RelaysControl)
 
 > Currently in active development.
-
 ---
 
 ### 🗄️ Telecom Call Center Database
