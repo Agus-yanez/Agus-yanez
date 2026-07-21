@@ -5,7 +5,7 @@
 ### Software Developer | Systems Integration | Web, Databases & IoT
 
 [![GitHub](https://img.shields.io/badge/GitHub-Agus--yanez-181717?style=for-the-badge\&logo=github)](https://github.com/Agus-yanez)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](www.linkedin.com/in/agustin-yañez-4a9392112)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/agustin-yañez-4a9392112)
 ![Location](https://img.shields.io/badge/Buenos_Aires-Argentina-2E86C1?style=for-the-badge\&logo=googlemaps\&logoColor=white)
 
 </div>
@@ -147,7 +147,7 @@ SQL Server database project for managing customers, prospects, services, and sup
 I'm interested in software development, integration, automation, and technology projects where I can continue learning and contribute practical solutions.
 
 * GitHub: [Agus-yanez](https://github.com/Agus-yanez)
-* LinkedIn: [Agustín Yañez](www.linkedin.com/in/agustin-yañez-4a9392112)
+* LinkedIn: [Agustín Yañez](https://www.linkedin.com/in/agustin-yañez-4a9392112)
 
 ---
 
