@@ -148,17 +148,6 @@ SQL Server database project for managing customers, prospects, services, and sup
 
 ---
 
-## 🔍 Professional Focus
-
-| Software Development        | Systems Integration          | IoT & Automation     |
-| --------------------------- | ---------------------------- | -------------------- |
-| Web applications            | REST APIs                    | ESP32                |
-| Object-oriented programming | Moodle and external services | Sensors and relays   |
-| Database-driven systems     | Production environments      | Scheduling and rules |
-| Maintainable architecture   | Incident resolution          | Remote monitoring    |
-
----
-
 ## 📫 Let's Connect
 
 I'm open to software development, systems integration, IoT, and automation opportunities.
