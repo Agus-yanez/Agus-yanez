@@ -103,16 +103,29 @@ Aplicación ASP.NET Core MVC para administrar películas, salas, funciones, usua
 
 ### 🌱 Automatización hidropónica con ESP32
 
-Sistema modular de automatización y monitoreo para un entorno de hidroponía indoor, desarrollado con **ESP32, PlatformIO, Arduino Framework y C++ orientado a objetos**.
+Subsistema modular de automatización de relés para un entorno de hidroponía indoor, desarrollado con **ESP32, PlatformIO, Arduino Framework y C++ orientado a objetos**.
 
-**Alcance actual:**
+**Actualmente implementado:**
 
-- Gestión de sensores y relés
-- Horarios y temporizadores
-- Estados seguros durante el inicio
+- Arquitectura de relés orientada a objetos
+- Administración centralizada de relés
+- Activaciones manuales y temporizadas
+- Estados seguros durante el arranque
+- Bloqueo de relés
+- Protecciones por tiempo mínimo de apagado y máximo de encendido
+- Interfaz de comandos por puerto serie
+- Configuraciones de seguridad según el tipo de actuador
+
+**Integraciones planificadas:**
+
+- Múltiples horarios por relé
+- Reglas de automatización basadas en sensores
 - Configuración persistente
-- Integración Wi-Fi y API
-- Reglas de automatización escalables
+- RTC y hora de red
+- Wi-Fi y API REST
+- Registro de eventos y alertas
+
+[Ver repositorio](https://github.com/Agus-yanez/RelaysControl)
 
 > Actualmente en desarrollo activo.
 
