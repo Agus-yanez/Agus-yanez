@@ -22,14 +22,11 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy desarrollador de software y vivo en Buenos Aires, Argentina. Tengo experiencia en **integración de sistemas, entornos productivos críticos, resolución de incidentes y mejora continua**.
+Soy desarrollador de software y profesional de integración de sistemas, radicado en Buenos Aires, Argentina. Desarrollo soluciones prácticas que conectan **aplicaciones web, APIs, bases de datos y sistemas embebidos**, con experiencia trabajando en entornos productivos críticos.
 
-Me interesa desarrollar soluciones prácticas que conecten **software, bases de datos, APIs y hardware**. Mis proyectos profesionales y personales incluyen aplicaciones web, integraciones con Moodle, APIs REST, bases de datos SQL, automatización con ESP32 y sistemas IoT.
-
-- 🔭 Actualmente estoy desarrollando un sistema escalable de **automatización con ESP32 para hidroponía indoor**
+- 🔭 Desarrollo una plataforma modular de **automatización con ESP32 para hidroponía indoor**
 - 🧩 Trabajo en integraciones entre **Moodle y Zoom Meeting SDK**
-- 💡 Me interesan el **desarrollo de software, las aplicaciones full stack, las integraciones, IoT y la automatización**
-- 🎯 Busco crear soluciones **limpias, mantenibles, escalables y confiables**
+- 🎯 Me enfoco en la **mantenibilidad, confiabilidad y mejora continua**
 
 ---
 
@@ -83,7 +80,7 @@ Integración basada en plugins entre **Moodle y Zoom Meeting SDK**, diseñada pa
 - Compatibilidad entre diferentes versiones de Moodle
 - Comunicación segura entre componentes PHP y JavaScript
 
-> Se está preparando una versión pública anonimizada junto con su documentación técnica.
+> **Estado:** Proyecto grupal · Repositorio para portfolio en preparación
 
 ---
 
@@ -100,7 +97,7 @@ Aplicación ASP.NET Core MVC para administrar películas, salas, funciones, usua
 - Integración con Entity Framework y SQL Server
 
 [Ver repositorio](https://github.com/Agus-yanez/ProyectoCineORT)
-
+>**Estado:** Proyecto académico · Repositorio público
 ---
 
 ### 🌱 Automatización hidropónica con ESP32
@@ -129,7 +126,7 @@ Subsistema modular de automatización de relés para un entorno de hidroponía i
 
 [Ver repositorio](https://github.com/Agus-yanez/RelaysControl)
 
-> Actualmente en desarrollo activo.
+> **Estado:** Público · Desarrollo activo
 
 ---
 
@@ -146,7 +143,7 @@ Proyecto en SQL Server para gestionar clientes, prospectos, servicios y tickets 
 - Lógica relacionada con SLA
 - Códigos y mensajes de error estructurados
 
-> El repositorio y su documentación se encuentran en preparación.
+> **Estado:** Proyecto académico · Repositorio en preparación
 
 ---
 
