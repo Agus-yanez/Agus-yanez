@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="./profile-banner.png"
+    src="./profile-banner-es.png"
     alt="Agustín Yañez — Desarrollo de Software, Integración de Sistemas, Bases de Datos e IoT"
     width="100%"
   />
