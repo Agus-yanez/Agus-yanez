@@ -2,11 +2,15 @@
   <a href="./README.md">English</a> | <strong>Español</strong>
 </p>
 
+<p align="center">
+  <img
+    src="./profile-banner.png"
+    alt="Agustín Yañez — Desarrollo de Software, Integración de Sistemas, Bases de Datos e IoT"
+    width="100%"
+  />
+</p>
+
 <div align="center">
-
-# Hola, soy Agustín Yañez 👋
-
-### Desarrollador de Software | Integración de Sistemas | Web, Bases de Datos e IoT
 
 [![GitHub](https://img.shields.io/badge/GitHub-Agus--yanez-181717?style=for-the-badge&logo=github)](https://github.com/Agus-yanez)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/agustin-yañez-4a9392112/)
