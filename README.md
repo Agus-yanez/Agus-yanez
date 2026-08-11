@@ -11,9 +11,9 @@
 </p>
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Agus--yanez-181717?style=for-the-badge\&logo=github)](https://github.com/Agus-yanez)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/agustin-yañez-4a9392112)
-![Location](https://img.shields.io/badge/Buenos_Aires-Argentina-2E86C1?style=for-the-badge\&logo=googlemaps\&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-Agus--yanez-181717?style=for-the-badge&logo=github)](https://github.com/Agus-yanez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/agustin-yañez-4a9392112)
+![Location](https://img.shields.io/badge/Buenos_Aires-Argentina-2E86C1?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
 
@@ -24,7 +24,7 @@
 I'm a software developer and systems integration professional based in Buenos Aires, Argentina. I build practical solutions that connect **web applications, APIs, databases, and embedded systems**, with experience supporting critical production environments.
 
 - 🔭 Building a modular **ESP32 automation platform for indoor hydroponics**
-- 🧩 Developing integrations between **Moodle and Zoom Meeting SDK**
+- 🧩 Contributed to and maintain the portfolio version of a public **Moodle + Zoom Meeting SDK** integration, with documented QA and security hardening
 - 🎯 Focused on **maintainable architecture, reliability, and continuous improvement**
 
 ---
@@ -45,7 +45,6 @@ I'm a software developer and systems integration professional based in Buenos Ai
 <details>
   <summary><strong>Additional tools and platforms</strong></summary>
   <br>
-
   <p align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
@@ -68,18 +67,21 @@ I'm a software developer and systems integration professional based in Buenos Ai
 
 ### 🎓 Moodle + Zoom Education Integration
 
-Plugin-based integration between **Moodle and Zoom Meeting SDK** designed for virtual classes and online assessments.
+Moodle Quiz Access Rule integrating **Zoom Meeting SDK** for supervised educational sessions.
 
 **Main features:**
 
-* Meeting access and authentication flow
-* Camera and microphone validation
-* Custom overlays, timers, and user notifications
-* Quiz access rules
-* Compatibility work across Moodle versions
-* Secure communication between PHP and JavaScript components
+- Meeting access and authentication flow
+- Camera and microphone device validation
+- Configurable supervision rules and waiting states
+- Reconnection handling
+- Secure PHP ↔ JavaScript communication
+- Moodle 4.5 / 5.0 compatibility validation
+- Automated quality and security checks with GitHub Actions
 
-> **Status:** Team project · Portfolio repository in preparation
+[View repository](https://github.com/Agus-yanez/moodle-zoom-education-integration)
+
+> **Status:** Team project · Public portfolio repository
 
 ---
 
@@ -96,6 +98,7 @@ ASP.NET Core MVC application for managing movies, rooms, screenings, users, and 
 * Entity Framework and SQL Server integration
 
 [View repository](https://github.com/Agus-yanez/ProyectoCineORT)
+
 > **Status:** Academic project · Public repository
 
 ---
