@@ -25,7 +25,7 @@
 Soy desarrollador de software y profesional de integración de sistemas, radicado en Buenos Aires, Argentina. Desarrollo soluciones prácticas que conectan **aplicaciones web, APIs, bases de datos y sistemas embebidos**, con experiencia trabajando en entornos productivos críticos.
 
 - 🔭 Desarrollo una plataforma modular de **automatización con ESP32 para hidroponía indoor**
-- 🧩 Trabajo en integraciones entre **Moodle y Zoom Meeting SDK**
+- 🧩 Participé en una integración pública entre **Moodle y Zoom Meeting SDK** y mantengo su versión de portfolio, con QA documentado y refuerzo de seguridad
 - 🎯 Me enfoco en la **mantenibilidad, confiabilidad y mejora continua**
 
 ---
@@ -46,7 +46,6 @@ Soy desarrollador de software y profesional de integración de sistemas, radicad
 <details>
   <summary><strong>Herramientas y plataformas adicionales</strong></summary>
   <br>
-
   <p align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
@@ -69,18 +68,21 @@ Soy desarrollador de software y profesional de integración de sistemas, radicad
 
 ### 🎓 Integración educativa Moodle + Zoom
 
-Integración basada en plugins entre **Moodle y Zoom Meeting SDK**, diseñada para clases virtuales y evaluaciones en línea.
+Regla de acceso para cuestionarios Moodle que integra **Zoom Meeting SDK** para sesiones educativas supervisadas.
 
 **Principales funcionalidades:**
 
 - Flujo de acceso y autenticación a reuniones
-- Validación de cámara y micrófono
-- Overlays personalizados, temporizadores y notificaciones
-- Reglas de acceso para cuestionarios
-- Compatibilidad entre diferentes versiones de Moodle
-- Comunicación segura entre componentes PHP y JavaScript
+- Validación de dispositivos de cámara y micrófono
+- Reglas de supervisión configurables y estados de espera
+- Manejo de reconexiones
+- Comunicación segura entre PHP y JavaScript
+- Compatibilidad validada con Moodle 4.5 / 5.0
+- Controles automáticos de calidad y seguridad con GitHub Actions
 
-> **Estado:** Proyecto grupal · Repositorio para portfolio en preparación
+[Ver repositorio](https://github.com/Agus-yanez/moodle-zoom-education-integration)
+
+> **Estado:** Proyecto grupal · Repositorio público de portfolio
 
 ---
 
@@ -97,7 +99,9 @@ Aplicación ASP.NET Core MVC para administrar películas, salas, funciones, usua
 - Integración con Entity Framework y SQL Server
 
 [Ver repositorio](https://github.com/Agus-yanez/ProyectoCineORT)
+
 > **Estado:** Proyecto académico · Repositorio público
+
 ---
 
 ### 🌱 Automatización hidropónica con ESP32
