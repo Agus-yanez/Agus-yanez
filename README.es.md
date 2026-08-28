@@ -86,21 +86,22 @@ Regla de acceso para cuestionarios Moodle que integra **Zoom Meeting SDK** para 
 
 ---
 
-### 🎬 Sistema de gestión para cines
+### 🗄️ Base de datos para call center de telecomunicaciones
 
-Aplicación ASP.NET Core MVC para administrar películas, salas, funciones, usuarios y reservas.
+Proyecto en SQL Server para gestionar **clientes, prospectos, servicios de telecomunicaciones, tickets de soporte, reglas de SLA y el ciclo de vida de los tickets**.
 
 **Principales funcionalidades:**
 
-- Roles de administrador y cliente
-- Gestión de películas, salas y funciones
-- Flujo de reservas
-- Validaciones por clasificación de edad
-- Integración con Entity Framework y SQL Server
+- Stored procedures con validaciones de negocio y manejo estructurado de errores
+- Funciones, transacciones y trigger de notificaciones con implementación set-based
+- Transiciones controladas de estados e historial de tickets
+- Cálculo de SLA excluyendo el tiempo en espera del cliente
+- Restricciones de integridad e índices a nivel de base de datos
+- Smoke tests y pruebas de regresión end-to-end ejecutables
 
-[Ver repositorio](https://github.com/Agus-yanez/ProyectoCineORT)
+[Ver repositorio](https://github.com/Agus-yanez/telecom-call-center-database)
 
-> **Estado:** Proyecto académico · Repositorio público
+> **Estado:** Proyecto académico grupal · Revisado y publicado como repositorio de portfolio
 
 ---
 
@@ -134,20 +135,21 @@ Subsistema modular de automatización de relés para un entorno de hidroponía i
 
 ---
 
-### 🗄️ Base de datos para call center de telecomunicaciones
+### 🎬 Sistema de gestión para cines
 
-Proyecto en SQL Server para gestionar clientes, prospectos, servicios y tickets de soporte.
+Aplicación ASP.NET Core MVC para administrar películas, salas, funciones, usuarios y reservas.
 
 **Principales funcionalidades:**
 
-- Stored procedures con validaciones de negocio
-- Funciones y triggers
-- Manejo de transacciones
-- Historial de estados de tickets
-- Lógica relacionada con SLA
-- Códigos y mensajes de error estructurados
+- Roles de administrador y cliente
+- Gestión de películas, salas y funciones
+- Flujo de reservas
+- Validaciones por clasificación de edad
+- Integración con Entity Framework y SQL Server
 
-> **Estado:** Proyecto académico · Repositorio en preparación
+[Ver repositorio](https://github.com/Agus-yanez/ProyectoCineORT)
+
+> **Estado:** Proyecto académico · Repositorio público
 
 ---
 

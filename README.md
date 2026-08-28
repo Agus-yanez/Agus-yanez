@@ -85,21 +85,22 @@ Moodle Quiz Access Rule integrating **Zoom Meeting SDK** for supervised educatio
 
 ---
 
-### 🎬 Cinema Management System
+### 🗄️ Telecom Call Center Database
 
-ASP.NET Core MVC application for managing movies, rooms, screenings, users, and reservations.
+SQL Server database project for managing **customers, prospects, telecom services, support tickets, SLA rules, and ticket lifecycle operations**.
 
 **Main features:**
 
-* Administrator and customer roles
-* Movie, room, and screening management
-* Reservation workflow
-* Age-rating validations
-* Entity Framework and SQL Server integration
+- Stored procedures with business validations and structured error handling
+- Functions, transactions, and a set-based notification trigger
+- Controlled ticket state transitions and status history
+- SLA calculation excluding time spent waiting for the customer
+- Database-level integrity constraints and supporting indexes
+- Executable smoke tests and end-to-end regression tests
 
-[View repository](https://github.com/Agus-yanez/ProyectoCineORT)
+[View repository](https://github.com/Agus-yanez/telecom-call-center-database)
 
-> **Status:** Academic project · Public repository
+> **Status:** Group academic project · Reviewed and published as a portfolio repository
 
 ---
 
@@ -133,20 +134,21 @@ Modular relay automation subsystem for an indoor hydroponics environment, develo
 
 ---
 
-### 🗄️ Telecom Call Center Database
+### 🎬 Cinema Management System
 
-SQL Server database project for managing customers, prospects, services, and support tickets.
+ASP.NET Core MVC application for managing movies, rooms, screenings, users, and reservations.
 
 **Main features:**
 
-* Stored procedures with business validations
-* Functions and triggers
-* Transaction handling
-* Ticket status history
-* SLA-related logic
-* Structured error codes and messages
+- Administrator and customer roles
+- Movie, room, and screening management
+- Reservation workflow
+- Age-rating validations
+- Entity Framework and SQL Server integration
 
-> **Status:** Academic project · Repository in preparation
+[View repository](https://github.com/Agus-yanez/ProyectoCineORT)
+
+> **Status:** Academic project · Public repository
 
 ---
 
@@ -154,7 +156,7 @@ SQL Server database project for managing customers, prospects, services, and sup
 
 I'm open to software development, systems integration, IoT, and automation opportunities.
 
-* LinkedIn: [Agustín Yañez](https://www.linkedin.com/in/agustin-yañez-4a9392112)
+- LinkedIn: [Agustín Yañez](https://www.linkedin.com/in/agustin-yañez-4a9392112)
 
 ---
 
